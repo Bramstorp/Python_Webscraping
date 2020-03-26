@@ -6,7 +6,7 @@ To check if the website allows data scrap check the /robots.txt of the website (
 
 --Web Site Scraper--
 
-To make the Scraper work u need to download pip to also install the BeautifulSoup library and the pprint also u have install python3 on the computer
+To make the Scraper work u need to download pip to also install the BeautifulSoup library and the pprint also u have to have python3 installed on the computer
 
 --Running Script--
 
